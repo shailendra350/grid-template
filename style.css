@@ -1,0 +1,91 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	box-sizing: border-box;
+	background-color:
+}
+.container{
+	display: grid;
+	grid-template-columns: repeat(5,1fr);
+	
+	
+	padding: 50px;
+}
+.sixth{
+	margin-top: -100px;
+}
+.seventh{
+	margin-top: -35px;
+}
+.eight{
+	margin-top: 20px;
+}
+.ninth{
+	margin-top: -100px;
+ }
+ .tenth{
+ 	margin-top: -100px;
+ }
+ .eleventh{
+ 	margin-top: -160px;
+ }
+.twelvelth{
+	margin-top: -230px;
+}
+.thirteenth{
+	margin-top: 20px;
+}
+.fourteen{
+	margin-top: -170px
+}
+.fifteen{
+	margin-top: -70px;
+}
+.sixteen{
+	margin-top: -90px;
+
+}
+.seventeen{
+   margin-top: -225px;
+}
+.eighteen{
+	margin-top: 20px;
+
+}
+.nineteen{
+	margin-top: -160px;
+
+}
+.twenty{
+  margin-top: -5px;
+}
+.twenty1{
+   margin-top: -120px;
+}
+.twenty2{
+	margin-top: -140px;
+}
+.twenty3{
+	margin-top: -20px;
+}
+.twenty4{
+	margin-top: -205px;
+}
+.twenty5{
+	margin-top: 20px;
+}
+.twenty6{
+	margin-top:-15px;
+	 }
+.twenty7{
+	margin-top:-100px;
+	 }
+.twenty8{
+	margin-top: 20px;
+	 }
+.twenty9{
+	margin-top:-10px;
+ }
+.thirty{
+	margin-top:-25px;
+	 }
